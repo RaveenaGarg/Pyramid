@@ -1,0 +1,145 @@
+04/12 10:42:03 [util.ReadProperty.propfile:40] - Project variable read successfully.
+04/12 10:42:03 [Execution.Launcher.main:61] - Reading Config File.
+04/12 10:42:03 [util.ExcelRead.exlDictionary:535] - Dictionary created successfully of Config/Config.xlsx.
+04/12 10:42:03 [Execution.Launcher.main:74] - Reading TestSuite.
+04/12 10:42:03 [util.ExcelRead.exlReadTestSuite:643] - Test Suite file "TestSuite" readed successfully.
+04/12 10:42:03 [Execution.Launcher.main:83] - Creatig testng.xml
+04/12 10:42:03 [util.CreateTestNGFile.TestNGFile:171] - TestSuite/SuiteFiles/ file created successfully.
+04/12 10:42:05 [util.ExcelRead.TestSuiteUpdate:382] - Error while reseting TestSuite
+04/12 10:42:05 [util.ExcelRead.TestSuiteUpdate:382] - Error while reseting TestSuite
+04/12 10:42:05 [util.ExcelRead.UpdateExcel:79] - MasterTestData_QA.xlsx reset Sucessfully.
+04/12 10:42:05 [Execution.Launcher.main:87] - Reading CommonValues from MasterTestData.
+04/12 10:42:05 [util.ExcelRead.exlDictionary:535] - Dictionary created successfully of Data/TestData/MasterTestData_QA.xlsx.
+04/12 10:42:15 [util.ExcelRead.exlReadMatserTestData:770] - Data against Testcase  "Flipkart.FlipkartSearchValiditem_AUT23_1" is readed successfully.
+04/12 10:44:00 [util.ExcelRead.TestSuiteUpdate:382] - Error while reseting TestSuite
+04/12 10:44:03 [util.ExcelRead.exlReadMatserTestData:770] - Data against Testcase  "Flipkart.FlipkartSearchInvaliditem_AUT24_1" is readed successfully.
+04/12 10:44:19 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -pgeHome ,Element -lnkLoggedIn and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:19 [core.Action.<init>:240] - Object lnkLoggedIn is not found on Page pgeHome
+04/12 10:44:20 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:22 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:24 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:26 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:28 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:30 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:32 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:34 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:36 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:38 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:40 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:42 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:45 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:47 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:49 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:51 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:44:51 [core.Action.WaitForElement:526] - Object lnkLoggedIn is not found in Page null. Waited for 30 second.
+04/12 10:45:03 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -pgeHome ,Element -lnkLoggedIn and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:03 [core.Action.<init>:240] - Object lnkLoggedIn is not found on Page pgeHome
+04/12 10:45:04 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:06 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:08 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:10 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:12 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:14 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:16 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:18 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:20 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:22 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:24 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:26 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:28 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:31 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:33 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:35 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:37 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:39 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:41 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:43 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:45 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:47 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:49 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:51 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:53 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:55 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:57 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:45:59 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:01 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:03 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:05 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:07 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:09 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:11 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:13 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:15 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:17 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:19 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:21 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:23 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:25 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:28 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:30 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:32 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:34 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:34 [core.Action.WaitForElement:526] - Object lnkLoggedIn is not found in Page null. Waited for 90 second.
+04/12 10:46:40 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -pgeHome ,Element -lnkLoggedIn and locator -//a[contains(text(),'Hi Pyramid!')]
+04/12 10:46:40 [core.Action.<init>:240] - Object lnkLoggedIn is not found on Page pgeHome
+04/12 10:46:43 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -pgeLogin ,Element -lnkLogout and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:46:43 [core.Action.<init>:240] - Object lnkLogout is not found on Page pgeLogin
+04/12 10:46:44 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:46:46 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:46:48 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:46:50 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:46:52 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:46:54 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:46:56 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:46:58 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:00 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:02 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:04 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:06 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:08 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:10 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:12 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:14 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:16 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:18 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:20 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:22 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:24 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:26 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:28 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:30 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:32 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:34 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:37 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:39 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:41 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:43 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:45 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:47 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:49 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:51 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:53 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:55 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:57 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:47:59 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:48:01 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:48:03 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:48:05 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:48:07 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:48:09 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:48:11 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:48:13 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:48:13 [core.Action.WaitForElement:526] - Object lnkLogout is not found in Page null. Waited for 90 second.
+04/12 10:48:19 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -pgeLogin ,Element -lnkLogout and locator -//a[@class='_2k0gmP' and text()='Log Out']
+04/12 10:48:19 [core.Action.<init>:240] - Object lnkLogout is not found on Page pgeLogin
+04/12 10:48:19 [core.Action.JSClick:367] - unknown error: Cannot read property 'click' of null
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'B2FWFD2', ip: '10.4.3.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a), userDataDir=C:\Users\raveenag\AppData\Local\Temp\scoped_dir14188_31147}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=62.0.3202.94, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a978972196dc359511501f04671aad32
+04/12 10:48:22 [util.ExcelRead.TestSuiteUpdate:382] - Error while reseting TestSuite
+04/12 10:48:26 [util.ExcelRead.UpdateExcel:98] - TestSuite updated Sucessfully.

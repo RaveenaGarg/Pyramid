@@ -1,0 +1,55 @@
+06/12 04:59:09 [util.ReadProperty.propfile:40] - Project variable read successfully.
+06/12 04:59:09 [Execution.Launcher.main:61] - Reading Config File.
+06/12 04:59:10 [util.ExcelRead.exlDictionary:535] - Dictionary created successfully of Config/Config.xlsx.
+06/12 04:59:10 [Execution.Launcher.main:74] - Reading TestSuite.
+06/12 04:59:10 [util.ExcelRead.exlReadTestSuite:643] - Test Suite file "TestSuite" readed successfully.
+06/12 04:59:10 [Execution.Launcher.main:83] - Creatig testng.xml
+06/12 04:59:10 [util.CreateTestNGFile.TestNGFile:171] - TestSuite/SuiteFiles/ file created successfully.
+06/12 04:59:10 [util.ExcelRead.killProcess:487] - Error while closing excel
+06/12 04:59:12 [util.ExcelRead.TestSuiteUpdate:382] - Error while reseting TestSuite
+06/12 04:59:12 [util.ExcelRead.TestSuiteUpdate:382] - Error while reseting TestSuite
+06/12 04:59:12 [util.ExcelRead.UpdateExcel:79] - MasterTestData_QA.xlsx reset Sucessfully.
+06/12 04:59:12 [Execution.Launcher.main:87] - Reading CommonValues from MasterTestData.
+06/12 04:59:12 [util.ExcelRead.exlDictionary:535] - Dictionary created successfully of Data/TestData/MasterTestData_QA.xlsx.
+06/12 04:59:13 [util.ExcelRead.exlDictionary:535] - Dictionary created successfully of Config/Config.xlsx.
+06/12 04:59:13 [util.ExcelRead.exlDictionary:535] - Dictionary created successfully of Config/Config.xlsx.
+06/12 04:59:16 [util.ExcelRead.exlReadMatserTestData:770] - Data against Testcase  "Flipkart.FlipkartSearchValiditem_AUT23_1" is readed successfully.
+06/12 04:59:18 [util.ExcelRead.exlReadMatserTestData:770] - Data against Testcase  "Flipkart.FlipkartSearchInvaliditem_AUT24_1" is readed successfully.
+06/12 05:00:05 [util.ExcelRead.killProcess:487] - Error while closing excel
+06/12 05:00:06 [util.ExcelRead.TestSuiteUpdate:382] - Error while reseting TestSuite
+06/12 05:00:49 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -pgeShoppingCart ,Element -lnkRemove and locator -//span[contains(text(),'Remove')]
+06/12 05:00:49 [core.Action.<init>:240] - Object lnkRemove is not found on Page pgeShoppingCart
+06/12 05:00:51 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:00:55 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:00:59 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:03 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:07 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:11 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:15 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:19 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:23 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:27 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:31 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:35 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:39 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:43 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:47 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:51 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:01:55 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:00 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:04 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:08 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:12 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:16 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:20 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:24 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:28 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:32 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -waitPage ,Element -waitElement and locator -//span[contains(text(),'Remove')]
+06/12 05:02:32 [core.Action.WaitForElement:526] - Object lnkRemove is not found in Page null. Waited for 100 second.
+06/12 05:02:35 [core.Action.generateWebElement:1440] - Error while creating Webelement of Page -pgeShoppingCart ,Element -lnkRemove and locator -//span[contains(text(),'Remove')]
+06/12 05:02:35 [core.Action.<init>:240] - Object lnkRemove is not found on Page pgeShoppingCart
+06/12 05:02:35 [util.ExcelRead.killProcess:487] - Error while closing excel
+06/12 05:02:36 [util.ExcelRead.TestSuiteUpdate:382] - Error while reseting TestSuite
+06/12 05:02:37 [util.ExcelRead.killProcess:487] - Error while closing excel
+06/12 05:02:38 [util.ExcelRead.killProcess:487] - Error while closing excel
+06/12 05:02:39 [util.ExcelRead.UpdateExcel:98] - TestSuite updated Sucessfully.
